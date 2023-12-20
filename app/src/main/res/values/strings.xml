@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Password Strength</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="password_status">password status</string>
+    <string name="just_for_test">just for test</string>
+    <string name="has_lower_case">has lower case</string>
+    <string name="hasuppercase">hasUpperCase</string>
+    <string name="hassymbol">hasSymbol</string>
+    <string name="_00">00</string>
+    <string name="length">length</string>
+</resources>
